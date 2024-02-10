@@ -3,7 +3,7 @@
 ## REGISTER NUMBER : 212221230097
 ## DATE : 10.02.2024
 ## AIM: 
-  To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
+  To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing.
 ## PROCEDURE: 
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
